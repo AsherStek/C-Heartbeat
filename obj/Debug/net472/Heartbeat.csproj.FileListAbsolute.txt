@@ -1,0 +1,4 @@
+C:\Users\Scorp\Documents\VS CODE\C#\Heartbeat\obj\Debug\net472\Heartbeat.csprojAssemblyReference.cache
+C:\Users\Scorp\Documents\VS CODE\C#\Heartbeat\obj\Debug\net472\Heartbeat.csproj.CoreCompileInputs.cache
+C:\Users\Scorp\Documents\VS CODE\C#\Heartbeat\obj\Debug\net472\Heartbeat.AssemblyInfoInputs.cache
+C:\Users\Scorp\Documents\VS CODE\C#\Heartbeat\obj\Debug\net472\Heartbeat.AssemblyInfo.cs
