@@ -9,7 +9,7 @@ namespace Heartbeat {
         private const long Billion = 1000000000L;
         private long LastFpsTime;
         private int Fps;
-        public void Run(bool running) {
+        public void Run(bool running, Window win) {
             long lastLoopTime = NanoTime();
             const int TARGET_FPS = 60;
             const long OPTIMAL_TIME = Billion / TARGET_FPS;

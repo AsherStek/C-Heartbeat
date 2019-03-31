@@ -7,5 +7,8 @@
   <ItemGroup>
     <Reference Include="System.Windows.Forms" Version="2.0.0.0" />
   </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="OpenTK" Version="3.0.1" />
+  </ItemGroup>
 
 </Project>

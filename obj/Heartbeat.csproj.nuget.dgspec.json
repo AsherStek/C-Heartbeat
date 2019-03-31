@@ -45,7 +45,14 @@
         }
       },
       "frameworks": {
-        "net472": {}
+        "net472": {
+          "dependencies": {
+            "OpenTK": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            }
+          }
+        }
       },
       "runtimes": {
         "win7-x86": {

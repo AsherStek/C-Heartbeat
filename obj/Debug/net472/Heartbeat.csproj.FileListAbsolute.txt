@@ -2,3 +2,10 @@ C:\Users\Scorp\Documents\VS CODE\C#\Heartbeat\obj\Debug\net472\Heartbeat.csprojA
 C:\Users\Scorp\Documents\VS CODE\C#\Heartbeat\obj\Debug\net472\Heartbeat.csproj.CoreCompileInputs.cache
 C:\Users\Scorp\Documents\VS CODE\C#\Heartbeat\obj\Debug\net472\Heartbeat.AssemblyInfoInputs.cache
 C:\Users\Scorp\Documents\VS CODE\C#\Heartbeat\obj\Debug\net472\Heartbeat.AssemblyInfo.cs
+C:\Users\Scorp\Documents\VS CODE\C#\Heartbeat\bin\Debug\net472\Heartbeat.exe.config
+C:\Users\Scorp\Documents\VS CODE\C#\Heartbeat\bin\Debug\net472\Heartbeat.exe
+C:\Users\Scorp\Documents\VS CODE\C#\Heartbeat\bin\Debug\net472\Heartbeat.pdb
+C:\Users\Scorp\Documents\VS CODE\C#\Heartbeat\bin\Debug\net472\OpenTK.dll
+C:\Users\Scorp\Documents\VS CODE\C#\Heartbeat\obj\Debug\net472\Heartbeat.csproj.CopyComplete
+C:\Users\Scorp\Documents\VS CODE\C#\Heartbeat\obj\Debug\net472\Heartbeat.exe
+C:\Users\Scorp\Documents\VS CODE\C#\Heartbeat\obj\Debug\net472\Heartbeat.pdb

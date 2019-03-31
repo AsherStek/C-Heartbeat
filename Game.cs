@@ -6,9 +6,15 @@ using System.Text;
 namespace Heartbeat {
     class Game {
         // World Variables
-        static int WorldWidth = 10;
-        static int WorldHeight = 5;
-        static Heartbeat Heart = new Heartbeat();
+        static int WorldWidth = 64;
+        static int WorldHeight = 32;
+        static int Scale = 20;
+        static double Fps = 60.0;
+        static bool VS = true;
+        static string Title = "Heartbeat Engine";
+        //static Heartbeat Heart = new Heartbeat();
+        public bool Running = true;
+        [STAThread]
         static void Main(string[] args) {
 
             using (RNGCryptoServiceProvider rng = new RNGCryptoServiceProvider()){
@@ -22,8 +28,9 @@ namespace Heartbeat {
                 }
                 StaticData.Seed = int.Parse(sb.ToString(), System.Globalization.NumberStyles.HexNumber);
             }
-            bool running = true;
-            Heart.Run(running);
+
+            Window Win = new Window(WorldWidth * Scale, WorldHeight * Scale, Title, VS);
+            Win.Run(Fps);
         }
     }
 }
